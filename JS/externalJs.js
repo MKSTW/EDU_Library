@@ -1,8 +1,8 @@
 function homelibrary(){
-    window.location.assign('../Yr-9 PBL/pages/books.html');
+    window.location.assign('pages/books.html');
 }
 function homeGuide(){
-    window.location.assign('../Yr-9 PBL/pages/services.html');
+    window.location.assign('pages/services.html');
 }
 function guide(){
     window.location.assign('../pages/services.html');
